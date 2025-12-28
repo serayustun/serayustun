@@ -49,8 +49,8 @@ A collaborative project developed in 2025, focusing on a hybrid monitoring frame
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Contact
 - **LinkedIn:** https://www.linkedin.com/in/serayustn  
 - **Email:** serayustn03@gmail.com
 
-> *Always open to learning opportunities and collaborative projects that value thoughtful AI design.*
+
